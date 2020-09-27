@@ -1,5 +1,8 @@
 # AWARE Compliance Dashboard (Full-stack Angular Web Application)
 
+**Click [this](https://youtu.be/Tqo8Vtln9qU) to watch video.**
+
+
 *Compliance Dashboard - Welcome&Login*
 
 ![alt text](images/welcome.png "Title 1")
