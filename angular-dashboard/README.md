@@ -44,6 +44,10 @@
 
 ![alt text](images/comments_add.png "Title 1")
 
+*Compliance Dashboard - Edit Comments*
+
+![alt text](images/comments_edit.png "Title 1")
+
 *Compliance Dashboard - Delete Comments*
 
 ![alt text](images/comments_delete.png "Title 1")
