@@ -1,3 +1,7 @@
+## Communication Diagram
+![alt text](images/Communication_diagram.jpeg "Title 1")
+
+
 ## UPMC Dash Fitbit Interventions
 
 ![alt text](images/appraisal.png "Title 1")![alt text](images/intervention_message.png "Title 1")
